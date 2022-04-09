@@ -66,7 +66,7 @@ var swiper = new Swiper(".creator-slider", {
     autoplay: {
         delay: 4000,
         disableOnInteraction: false,
-    },
+    }, 
 });
 
 // FAQ
